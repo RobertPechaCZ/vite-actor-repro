@@ -1,0 +1,26 @@
+{
+  "name": "vite-actor-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "test": "vitest test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertPechaCZ/vite-actor-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertPechaCZ/vite-actor-repro/issues"
+  },
+  "homepage": "https://github.com/RobertPechaCZ/vite-actor-repro#readme",
+  "dependencies": {
+    "actor": "^2.3.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.12",
+    "vitest": "^1.2.2"
+  }
+}
