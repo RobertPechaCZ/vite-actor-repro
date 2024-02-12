@@ -3,6 +3,6 @@ import { test } from "./index";
 
 describe("get stuck", () => {
   it("test", () => {
-    expect(test).toMatchInlineSnapshot();
+    expect(test()).resolves.toMatchInlineSnapshot(`undefined`);
   });
 });

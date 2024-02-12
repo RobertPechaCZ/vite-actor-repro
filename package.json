@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/RobertPechaCZ/vite-actor-repro#readme",
   "dependencies": {
-    "actor": "^2.3.1",
+    "@web3-storage/upload-client": "^13.0.1",
+    "files-from-path": "^1.0.4",
     "typescript": "^5.3.3",
     "vite": "^5.0.12",
     "vitest": "^1.2.2"
